@@ -1,0 +1,6 @@
+[package]
+name = "hello"
+version = "0.1.0"
+authors = ["zolier <beriny_sh@163.com>"]
+
+[dependencies]
